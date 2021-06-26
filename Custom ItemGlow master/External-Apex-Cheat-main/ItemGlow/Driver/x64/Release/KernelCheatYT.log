@@ -1,0 +1,11 @@
+﻿  Building 'Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\KernelCheatYT.inf
+  Stamping [Version] section with DriverVer=06/26/2021,17.3.50.447
+C:\Users\SpooFer\Desktop\External-Apex-Cheat-main\External-Apex-Cheat-main\Apex Cheat\KernelCheatYT\KernelCheatYT.inf(5-5): warning 1324: [Version] section should specify PnpLockdown=1.
+  hook.cpp
+  main.cpp
+  memory.cpp
+C:\Users\SpooFer\Desktop\External-Apex-Cheat-main\External-Apex-Cheat-main\Apex Cheat\KernelCheatYT\memory.cpp(66,60): warning C4267: '引数': 'size_t' から 'ULONG' に変換しました。データが失われているかもしれません。
+  コードを生成中...
+  KernelCheatYT.vcxproj -> C:\Users\SpooFer\Desktop\External-Apex-Cheat-main\External-Apex-Cheat-main\Apex Cheat\x64\Release\Driver.sys
+  Driver is 'Universal'.
