@@ -2,5 +2,4 @@
 Customizable Item Glow 
 
  credit :SurgeGotTapped
-
-https://imgur.com/jWbuwes
+<img src="https://imgur.com/jWbuwes" alt="imagepng" title="image">
