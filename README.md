@@ -3,4 +3,4 @@ Customizable Item Glow
 
  credit :SurgeGotTapped
  
- ![image](https://imgur.com/jWbuwes)
+<img src="http://i.imgur.com/Jjwsc.jpg" alt="エビフライトライアングル">
